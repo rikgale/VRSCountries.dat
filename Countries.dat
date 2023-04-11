@@ -184,6 +184,7 @@ Central African Republic=000001101100xxxxxxxxxxxx,12,Central_African_Republic.bm
 Chad=000010000100xxxxxxxxxxxx,12,Chad.bmp
 Chile=111010000000xxxxxxxxxxxx,12,Chile.bmp
 Chile Mil=1110100000000110xxxxxxxx,16,Chile_Mil.bmp
+Chile=1110100000000110000xxxxx,19,Chile.bmp
 Chile Mil=101011100000001110111110,24,Chile_Mil.bmp
 China=011110xxxxxxxxxxxxxxxxxx,6,China.bmp
 China=0111100000000001000xxxxx,19,China.bmp
